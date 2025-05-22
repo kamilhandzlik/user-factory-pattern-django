@@ -1,8 +1,4 @@
-
-import React, { useState } from 'react'
-
-
-
+import React, { useState } from "react";
 
 const Homepage: React.FC = () => {
   return (
@@ -13,7 +9,7 @@ const Homepage: React.FC = () => {
       <p>Feel free to explore and modify the code!</p>
       <p>Happy coding!</p>
     </>
-  )
-}
+  );
+};
 
-export default Homepage
+export default Homepage;
